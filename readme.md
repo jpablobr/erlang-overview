@@ -4,6 +4,12 @@
 
 ### by Jose Pablo Barrantes (@jpablobr)
 
+### Credits
+
+[@mattonrails for his Erlang to Ruby presentation](https://github.com/mattonrails/erlang-and-ruby-talk)
+
+[@schacon for showoff](https://github.com/schacon/showoff)
+
 ### Copyright
 
 Copyright 2009 Jose Pablo Barrantes. MIT Licence, so go for it.
