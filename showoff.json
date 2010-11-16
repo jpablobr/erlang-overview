@@ -1,0 +1,8 @@
+{
+  "name": "Erlang: A Language Overview",
+  "sections": [
+    {"section":"title"},
+    {"section":"meet_erlang"},
+    {"section":"the_end"}
+ ]
+}
