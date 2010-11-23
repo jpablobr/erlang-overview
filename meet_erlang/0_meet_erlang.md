@@ -31,6 +31,22 @@
 * Concurrent (actor model)
 * Distributed
 
+
+!SLIDE bullets incremental
+
+* ! objects
+* processes !
+
+!SLIDE bullets incremental
+
+# Actor model 
+
+* No shared state
+* Lightweight processes
+* Asynchronous message-passing
+* Mailboxes to buffer incoming messages
+* Mailbox processing with pattern matching
+
 !SLIDE bullets
 
 # Get Erlang

@@ -16,3 +16,4 @@
 * start with lowercase letters
 * ...unless single-quoted
 * value is the atom itself
+* true, false
