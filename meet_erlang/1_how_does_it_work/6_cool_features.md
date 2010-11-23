@@ -1,11 +1,9 @@
 !SLIDE bullets incremental
 
-# Cool Features
+# Main Features
 
 * List Comprehensions
 * Bit Syntax! (also Binary Comprehensions)
 * Function Pattern Matching
-* Higher order functions
-* Iteration (!loops)
+* Behaviors "patterns"
 * Tail Recursion
-
